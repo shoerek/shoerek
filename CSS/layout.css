@@ -1,1 +1,306 @@
 
+
+/* FONTE */
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+/* CORES BODY */
+
+div#corpo {
+    background: white;
+}
+
+div#cabecalho {
+    background: #592626;
+    margin-top: -10px;
+}
+
+a.bem-vindo.cor-secundaria {
+    color: #592626;
+}
+
+a, a:hover, a:focus, .cor-principal, .menu a:hover, .atributo-comum a:hover span, .atributo-comum .active a span {
+    color: #592626;
+}
+
+/* CORES MENU */
+.menu.superior {
+    background-color: rgb(89 38 38);
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
+    margin-top: -15px;
+    background-color: rgb(89 38 38);
+    text-transform: uppercase;
+    margin-right: 315px;
+}
+
+/* FULL BANNER */
+.secao-banners .conteiner {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+    margin-top: 157px;
+    border: none;
+}
+
+/* TARJA TOPO CONTATOS */
+.barra-inicial.fundo-secundario {
+    display: none;
+}
+
+/* DESTAQUE DESCONTO */
+span.desconto-a-vista {
+    font-weight: bolder;
+}
+strong.preco-promocional.cor-principal.titulo {
+    font-weight: 500!important;
+    font-size: 16px!important;
+}
+
+strong.cor-principal.titulo {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/*AJUSTE CABECALHO*/
+
+h1.logo.cor-secundaria {
+    width: 200px;
+}
+
+h2.logo.cor-secundaria {
+    width: 200px;
+}
+
+.conteudo-topo.span9 {
+    margin-left: 0px;
+    margin-top: -5px;
+}
+
+
+/*AJUSTE ICONES CABECALHO*/
+
+ul.acoes-conta.borda-alpha {
+    margin-left: 38px;
+}
+
+/*AJUSTE MEUS PEDIDOS*/
+i.icon-list.fundo-principal {
+    background: #90d400;
+}
+
+/*AJUSTE MINHA CONTA*/
+i.icon-user.fundo-principal {
+    background: #90d400;
+}
+
+.carrinho {
+    border-color: rgb(144 212 0);
+    margin-left: 29px;
+}
+
+
+i.icon-shopping-cart.fundo-principal {
+    background: #91d601;
+    color: #ffffff;
+}
+
+
+/*AJUSTE FORM DE PESQUISA*/
+.busca form, .busca input {
+    margin: 0;
+    border-radius: 10px;
+    height: 31px;
+}
+
+.busca.borda-alpha {
+    margin-top: -25px;
+    background: #592626;
+    border-color: #592626;
+}
+
+/*RETIRAR ICONE BOTÃO*/
+.acoes-produto-responsiva .tag-comprar i {
+    display: none!important;
+}
+
+button.botao.botao-busca.icon-search.fundo-secundario {
+    height: 41px;
+    border-radius: 5px;
+    right: 11px;
+    top: 5px;
+}
+
+
+h1.nome-produto.titulo.cor-secundaria {
+    font-weight: bold;
+    font-size: 30px;
+    color: #592626;
+}
+
+.listagem .listagem-item .nome-produto {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/*CABEÇALHO FIXO NA ROLAGEM*/
+#cabecalho {
+    top: 0;
+    width: 100%;
+    transition: all .3s ease-in-out 0s,visibility 0s linear .3s,z-index 0s linear 10ms!important;
+    box-shadow: 0 2px 6px 0 rgb(43 43 43 / 38%);
+    background: #fff;
+    position: fixed;
+    z-index: 201;
+    background: rgb(245, 131, 58);
+}
+
+div#barraTopo {
+    display: none!important;
+}
+/*AJUSTE CORPO COM BANNER FIXO*/
+body.pagina-produto.tema-transparente {
+    margin-top: 150px;
+}
+
+body.pagina-carrinho.tema-transparente {
+    margin-top: 150px;
+}
+
+body.pagina-pedido-finalizado.tema-transparente {
+    margin-top: 150px;
+}
+
+body.pagina-login-finalizado.tema-transparente {
+    margin-top: 150px;
+}
+
+body.pagina-login.tema-transparente {
+    margin-top: 150px!important;
+}
+
+body.pagina-conta.tema-transparente {
+    margin-top: 160px!important;
+}
+
+body.pagina-pedido-listar.tema-transparente {
+    margin-top: 160px!important;
+}
+
+body.pagina-favorito-listar.tema-transparente{
+    margin-top: 160px!important;
+}
+
+body.pagina-cadastro.tema-transparente{
+    margin-top: 160px!important;
+}
+
+/*CORES CHECKOUT*/
+.carrinho-checkout .atendimento {
+    color: #8fd400;
+    text-color: #8fd400;
+}
+
+.carrinho-checkout .atendimento li strong {
+    color: #8fd400;
+}
+
+/*BOTÕES*/
+.botao.pequeno {
+    background: #91d601;
+    color: white;
+    border-radius: 5px;
+    margin-top: -13px;
+    margin-left: 5px;
+}
+
+/*-------------------------------*/
+
+/*ALTERAÇÕES MOBILE*/
+@media only screen and (max-width: 767px){
+    .busca.borda-alpha {
+    margin-top: 0px;
+}
+
+.listagem .listagem-item .acoes-produto-responsiva {
+    margin-left: 0px!important;
+    margin-top: -9px!important;
+    top: 100%!important;
+    right: 126px!important;
+}
+
+.listagem .listagem-linha li {
+    border: none;
+    padding-bottom: 28px;
+}
+
+.conteiner .logo {
+    margin: 0 0 -7px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+
+.logo a {
+    height: 53px!important;
+}
+
+.logo a img {
+    left: 70px!important;
+    margin-top: 20px;
+}
+
+.busca form, .busca input {
+    height: 23px!important;
+}
+button.botao.botao-busca.icon-search.fundo-secundario {
+    height: 45px!important;
+    border-radius: 5px!important;
+    right: 0px!important;
+    top: 0px!important;
+}
+
+.row-fluid [class*="span"]:first-child {
+    margin-top: -5px;
+}
+
+li.flex-active-slide {
+    margin-top: 23px;
+}
+
+.carrinho-checkout #cabecalho {
+    padding-top: 0;
+    padding-bottom: 15px;
+}
+
+.carrinho-checkout .conteiner-principal #corpo .conteiner {
+    margin-top: -89px;
+}
+
+.menu.superior .nivel-um.active, .menu.superior .nivel-dois, .menu.lateral .nivel-um.active, .menu.lateral .nivel-dois {
+    display: block;
+    margin-right: -132px;
+    margin-top: 43px;
+}
+
+body.pagina-login.tema-transparente {
+    margin-top: 190px!important;
+}
+
+body.pagina-conta.tema-transparente {
+    margin-top: 185px!important;
+}
+
+body.pagina-pedido-listar.tema-transparente {
+    margin-top: 185px!important;
+}
+
+body.pagina-cadastro.tema-transparente {
+    margin-top: 185px!important;
+}
+
+}
