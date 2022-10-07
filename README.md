@@ -12,9 +12,9 @@ de Comércio Eletrônico embasado em boas práticas.
 **Essa pesquisa visa ajudar três públicos:** (a) quem pesquisa e estuda sobre CE e tem conhecimento básico em tecnologia da informação; (b) quem deseja implantar um CE, mas não sabe por onde começar; (c) quem já atua na área de forma tácita, mas não domina os conceitos básicos de MD e CE. Com o protótipo pretendemos auxiliar esses públicos a encontrarem e julgarem quais ferramentas serão necessárias para automatização do trabalho na implantação e performance de um Comércio Eletrônico.
 
 **O arquivo "VÍDEO_AULAS_LINKS.md"** traz vídeos explicativos de como configurar as principais Ferramentas SAAS utilizadas no projeto.
-**O diretório "Identidade Visual"** contém as peças relacionadas à padronização de cores, formas e fontes da marca que foi criada especificamente para o projeto. 
-**O diretório "CODIGOS"** cotém arquivos em html com códigos utilizados para a configuração das principais Ferramentas SAAS, bem como os códigos em CSS usados para ajustes
-de layout para versões em desktop e mobile.
+**O diretório "Identidade Visual"** contém as peças relacionadas à padronização de cores, formas e fontes da marca que foi criada especificamente para o projeto.
+**O diretório "PLANEJAMENTO"** é composto pelo arquivo "Análise Swot", que auxilia no planejamento de mercado e percepção de diferenciais competitivos e o "Mapa de Empatia", que permite identificar comportamentos, dores e necessidades do público-alvo da empresa.
+**O diretório "CODIGOS"** cotém arquivos em html com códigos utilizados para a configuração das principais Ferramentas SAAS, bem como os códigos em CSS usados para ajustes de layout para versões em desktop e mobile.
 
 Os arquivos de configuração de SAAS, que estão no diretório "CONFIG" servem **exclusivamente para demonstração da configuração**. Cada projeto possui um código específico a ser implementado no próprio comércio eletrônico e é gerado no ato do cadastro e configuração. Para mais informações, consulte o vídeo explicativo em "VÍDEO_AULAS_LINKS.md".
 
