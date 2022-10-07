@@ -1,5 +1,3 @@
-<!--
-
 Projeto de Conclusão de Curso - Sistemas de Informação
 Instituto Federal da Bahia - IFBA
 Aluno - Hugo dos Santos Brito
@@ -15,5 +13,3 @@ de layout para versões em desktop e mobile.
 Os arquivos de configuração de SAAS servem exclusivamente para demonstração da configuração. Cada projeto possui um código específico a ser implementado no próprio comércio eletrônico e é gerado no ato do cadastro e configuração. Para mais informações, consulte o vídeo explicativo em "VÍDEO_AULAS_LINKS.md".
 
 O arquivo de configuração de layout (CSS) pode ser aproveitado em outros projetos, com a ressalva da substituição das cores para as que correspondem a identidade visual previamente estabelecida.
-
--->
