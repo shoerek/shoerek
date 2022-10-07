@@ -5,7 +5,7 @@
 **Aluno** - Hugo dos Santos Brito
 
 Esse repositório armazena **informações**, **arquivos** e **códigos** referentes a aplicação de uma análise comparativa de Ferramentas SAAS aplicadas em um projeto
-de Comércio Eletrônico embasado em boas práticas.
+de Comércio Eletrônico (CE) embasado em boas práticas.
 
 **O objetivo do projeto é:** Planejar e desenvolver um protótipo de Comércio Eletrônico a partir das principais boas práticas de Marketing Digital e ferramentas SAAS atuais que apoiem a automatização desse tipo de sistema. 
 
