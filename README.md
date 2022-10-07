@@ -7,7 +7,7 @@
 Esse repositório armazena **informações**, **arquivos** e **códigos** referentes a aplicação de uma análise comparativa de Ferramentas SAAS aplicadas em um projeto
 de Comércio Eletrônico embasado em boas práticas.
 
-**O objetivo do projeto é:** planejar e desenvolver um protótipo de Comércio Eletrônico a partir das principais boas práticas de Marketing Digital e ferramentas SAAS atuais que apoiem a automatização desse tipo de sistema. 
+**O objetivo do projeto é:** Planejar e desenvolver um protótipo de Comércio Eletrônico a partir das principais boas práticas de Marketing Digital e ferramentas SAAS atuais que apoiem a automatização desse tipo de sistema. 
 
 **Essa pesquisa visa ajudar três públicos:** (a) quem pesquisa e estuda sobre CE e tem conhecimento básico em tecnologia da informação; (b) quem deseja implantar um CE, mas não sabe por onde começar; (c) quem já atua na área de forma tácita, mas não domina os conceitos básicos de MD e CE. Com o protótipo pretendemos auxiliar esses públicos a encontrarem e julgarem quais ferramentas serão necessárias para automatização do trabalho na implantação e performance de um Comércio Eletrônico.
 
