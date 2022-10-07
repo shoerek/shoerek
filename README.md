@@ -12,6 +12,6 @@ de Comércio Eletrônico embasado em boas práticas.
 **O diretório "CODIGOS"** cotém arquivos em html com códigos utilizados para a configuração das principais Ferramentas SAAS, bem como os códigos em CSS usados para ajustes
 de layout para versões em desktop e mobile.
 
-Os arquivos de configuração de SAAS servem **exclusivamente para demonstração da configuração**. Cada projeto possui um código específico a ser implementado no próprio comércio eletrônico e é gerado no ato do cadastro e configuração. Para mais informações, consulte o vídeo explicativo em "VÍDEO_AULAS_LINKS.md".
+Os arquivos de configuração de SAAS, que estão no diretório "CONFIG" servem **exclusivamente para demonstração da configuração**. Cada projeto possui um código específico a ser implementado no próprio comércio eletrônico e é gerado no ato do cadastro e configuração. Para mais informações, consulte o vídeo explicativo em "VÍDEO_AULAS_LINKS.md".
 
-O arquivo de configuração de layout (CSS) **pode ser aproveitado em outros projetos**, com a ressalva da substituição das cores para as que correspondem a identidade visual previamente estabelecida.
+O arquivo de configuração de layout (CSS), que estão no diretório "CSS" **podem ser aproveitados em outros projetos**, com a ressalva da substituição das cores para as que correspondem a identidade visual previamente estabelecida.
