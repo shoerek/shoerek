@@ -1,9 +1,4 @@
-### Hi there 👋
-Projeto de TCC do Curso de Sistemas de Informação - IFBA
-Aluno: Hugo dos Santos Brito
-
-VÍDEO AULA DAS FSAAS:
-
+Abaixo seguem os links para vídeos explicativos sobre configuração e/ou uso das principais FSAAS implementadas no projeto:
 
 Google Analytics
 https://youtu.be/ichzE93Vyvw
