@@ -1,4 +1,6 @@
-/* INSERIR NA PLATAFORMA - AJUSTAR CORES PARA SUA IDENTIDADE VISUAL */
+/* INSERIR NA PLATAFORMA DA LOJA VIRTUAL - ALTERE AS CORES E FONTE PARA SUA IDENTIDADE VISUAL */
+
+/* PARA VER ALTERAÇÕES NA LOJA, ADICIONE E REMOVA UM PRODUTO DO CARRINHO PARA LIMPAR O CACHE */
 
 /* FONTE */
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
@@ -195,6 +197,17 @@ body.pagina-favorito-listar.tema-transparente{
 }
 
 body.pagina-cadastro.tema-transparente{
+    margin-top: 160px!important;
+}
+
+/*AJUSTE CORPO COM BANNER FIXO - CATEGORIAS*/
+body.pagina-categoria{
+    margin-top: 160px!important;
+}
+
+/*AJUSTE CORPO COM BANNER FIXO - PAGINAS EXTRAS*/
+
+body.pagina-pagina.tema-transparente{
     margin-top: 160px!important;
 }
 
