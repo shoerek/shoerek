@@ -1,3 +1,6 @@
+Demonstração da Loja Virtual:
+https://youtu.be/W6o0rIC0eBQ
+
 Abaixo seguem os links para vídeos explicativos sobre configuração e/ou uso das principais FSAAS implementadas no projeto:
 
 **Google Analytics:**
