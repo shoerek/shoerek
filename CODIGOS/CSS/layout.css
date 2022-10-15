@@ -39,6 +39,11 @@ a, a:hover, a:focus, .cor-principal, .menu a:hover, .atributo-comum a:hover span
     margin-right: 315px;
 }
 
+/* HOVER PEDIDOS E MINHA CONTA */
+ul.acoes-conta.borda-alpha a.cor-secundaria:hover {
+    color: white;
+}
+
 /* FULL BANNER */
 .secao-banners .conteiner {
     max-width: 100%;
